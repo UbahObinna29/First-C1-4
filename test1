@@ -1,0 +1,12 @@
+using System
+{
+namespace C1-4{
+class TestClass{
+//Hey guys, here is how it works...you add a string variable and assign the bank you bank with as a value to it.
+//There are also issues with the syntax of the code. fix ONLY one and pass it on... also add a comment on what you fixed who is to go next
+//For example....string titi = "standard chatered"; //tade is to go next
+//Here i go....
+string tofunmi = "diamond bank";
+//Miss oge, you go next...
+}
+}
